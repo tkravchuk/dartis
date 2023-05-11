@@ -1,5 +1,5 @@
 name: dartis
-version: 0.5.0
+version: 0.6.0
 author: Juan Mellado <jcmellado@gmail.com>
 homepage: https://github.com/jcmellado/dartis
 description: >-
@@ -12,7 +12,7 @@ environment:
   sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
-  logging: ^0.11.4
+  logging: ^1.1.1
 
 dev_dependencies:
   test: ^1.14.2
